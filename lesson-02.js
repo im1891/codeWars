@@ -8,3 +8,5 @@ function descendingOrder(n) {
 }
 
 descendingOrder(12345)
+
+//https://www.codewars.com/kata/5467e4d82edf8bbf40000155/train/javascript
